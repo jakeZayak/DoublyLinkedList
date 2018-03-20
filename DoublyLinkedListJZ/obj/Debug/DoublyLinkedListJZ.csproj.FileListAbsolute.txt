@@ -1,0 +1,20 @@
+C:\Users\jzayak9853\OneDrive - York Technical College\School 2018SP\Data Structures\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.csprojResolveAssemblyReference.cache
+C:\Users\jzayak9853\OneDrive - York Technical College\School 2018SP\Data Structures\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.csproj.CoreCompileInputs.cache
+C:\Users\jzayak9853\OneDrive - York Technical College\School 2018SP\Data Structures\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\bin\Debug\DoublyLinkedListJZ.exe.config
+C:\Users\jzayak9853\OneDrive - York Technical College\School 2018SP\Data Structures\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\bin\Debug\DoublyLinkedListJZ.exe
+C:\Users\jzayak9853\OneDrive - York Technical College\School 2018SP\Data Structures\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\bin\Debug\DoublyLinkedListJZ.pdb
+C:\Users\jzayak9853\OneDrive - York Technical College\School 2018SP\Data Structures\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.exe
+C:\Users\jzayak9853\OneDrive - York Technical College\School 2018SP\Data Structures\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.pdb
+E:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\bin\Debug\DoublyLinkedListJZ.exe.config
+E:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\bin\Debug\DoublyLinkedListJZ.exe
+E:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\bin\Debug\DoublyLinkedListJZ.pdb
+E:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.csprojResolveAssemblyReference.cache
+E:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.exe
+E:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.pdb
+Z:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\bin\Debug\DoublyLinkedListJZ.exe.config
+Z:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\bin\Debug\DoublyLinkedListJZ.exe
+Z:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\bin\Debug\DoublyLinkedListJZ.pdb
+Z:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.csproj.CoreCompileInputs.cache
+Z:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.exe
+Z:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.pdb
+Z:\DataStructures\DoublyLinkedListJZ\DoublyLinkedListJZ\obj\Debug\DoublyLinkedListJZ.csprojResolveAssemblyReference.cache
