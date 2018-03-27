@@ -156,6 +156,7 @@ namespace DoublyLinkedListJZ
                 insert.Next = prev.Next;
                 prev.Next = insert;
                 insert.Prev = prev;
+
                 if (insert.Next != null)
                 {
                     insert.Next.Prev = insert;
